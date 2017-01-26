@@ -7,5 +7,5 @@ Laittakaa kaikki ohjeet tänne
 	Kun olet kertonut muutetut asiat "työnnä" muutokset GitHub:iin. Komento: git push origin master
 	Jos joku muu on muuttanut tiedostoa ja haluat päivittää muutetut tiedoston koneellesi. Komento: git pull origin master
 
-
+Addu 
 byyh
