@@ -6,10 +6,3 @@ Laittakaa kaikki ohjeet tänne
 	Jos tiedosto on oikea kerro mitä olet muuttanut tai lisännyt tiedostoon. Komento: git commit -am "Muutin tiedostoon jne."
 	Kun olet kertonut muutetut asiat "työnnä" muutokset GitHub:iin. Komento: git push origin master
 	Jos joku muu on muuttanut tiedostoa ja haluat päivittää muutetut tiedoston koneellesi. Komento: git pull origin master
-<<<<<<< HEAD
-Dänk weed
-=======
-
-Addu 
-byyh
->>>>>>> 248788b23193773b405f33514838ee0eb5f694e6
