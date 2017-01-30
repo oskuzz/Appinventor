@@ -8,3 +8,4 @@ Laittakaa kaikki ohjeet tänne
 	Jos joku muu on muuttanut tiedostoa ja haluat päivittää muutetut tiedoston koneellesi. Komento: git pull origin master
   git clone https://github.com/oskuzz/XML.git
   Tehkää toi Sinne net beansiin
+  https://github.com/oskuzz/XML/invitations
